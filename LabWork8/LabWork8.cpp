@@ -1,6 +1,4 @@
-﻿#pragma once
-
-#include "console.h"
+﻿#include "console.h"
 #include "autoservice.h"
 #include "shoppingList.h"
 
